@@ -4,54 +4,78 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Michael Bilous
+    tagline: Senior Cloud Backend Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: info@mbilous.com
+    phone: +972 (58) 4053777
     timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    citizenship: Israel, Ukraine
+    website: #do not add http://
+    linkedin: michaelbilous
+    xing: 
+    github: michael-bilous
+    telegram: michael_bilous
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # link to a pdf file
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Russian
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Ukrainian
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Photography
+          icon: camera.png
           link:
 
-        - item: Snowboarding
+        - item: DIY
+          icon: tools.png
+          link:
+
+        - item: Radio-Electronics
+          icon: rom.png
+          link:
+
+        - item: Computer hardware
+          icon: pc.png
+          link:
+
+        - item: Networking
+          icon: switch.png
+          link:
+
+        - item: Servers & Virtualization
+          icon: server.png
+          link:
+
+        - item: Scuba diving
+          icon: snorkling.png
           link:
 
         - item: Cooking
+          icon: cooking.png
           link:
+          
 
 career-profile:
     title: Career Profile
@@ -77,8 +101,8 @@ education:
             - Bullet point
             - Bullet point
       - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+        university: Computer science
+        time: 2008 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,21 +114,18 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Backend and Cloud Engineer
+        time: October 2017 - Present (5+ years)
+        company: Align Technology, Petah Tikva
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Design, develop, and maintain scalable cloud-based solutions in AWS
+            - Collaborate with cross-functional teams to gather requirements, design architecture, and implement solutions that meet the needs of the business
+            - Write clean, efficient, and well-documented code that adheres to best practices and standards
+            - Develop and maintain RESTful APIs and microservices using C# and .netcore
+            - Create and maintain automated testing and deployment pipelines using Jenkins and Bamboo
+            - Troubleshoot and resolve complex technical issues related to cloud infrastructure and networking
+            - Mentor and coach junior engineers, providing guidance and support for their professional development
+            - Stay up-to-date with emerging trends and technologies in cloud computing and backend engineering, and contribute to the development of the company's technology strategy.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London

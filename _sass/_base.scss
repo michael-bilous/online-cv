@@ -148,7 +148,7 @@ p {
     }
   }
 
-  .interests-list {
+  .interests-list {    
     margin-bottom: 0;
     li {
       margin-bottom: 10px;
@@ -156,6 +156,12 @@ p {
         margin-bottom: 0;
       }
     }
+  }
+
+  .interests-icon {
+    float:left;
+    height: auto;
+    height: 24px;
   }
 }
 
