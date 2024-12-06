@@ -60,7 +60,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      With over 6 years of experience in cloud and backend engineering, I currently hold the position of senior cloud and backend engineer at Align Technology, a global leader in digital orthodontics and the medical device industry. Within Align Technology, I collaborate with a talented team of engineers, designers, and product managers to deliver innovative solutions that enhance the customer experience and improve the efficiency and quality of our products and services.
+      With over 11 years of experience in cloud and backend engineering, I currently hold the position of senior cloud and backend engineer at Align Technology, a global leader in digital orthodontics and the medical device industry. Within Align Technology, I collaborate with a talented team of engineers, designers, and product managers to deliver innovative solutions that enhance the customer experience and improve the efficiency and quality of our products and services.
       My passion for learning drives me to constantly seek out new technologies and best practices in cloud and backend development. I thrive on collaboration and value diversity, creativity, and feedback. Working alongside other engineers and stakeholders, I aim to contribute to the mission and vision of Align Technology, ultimately making a positive impact on the lives of those who use our products and services.
 
 education:
@@ -147,14 +147,14 @@ skills:
 
     toolset:
       - name: C# & .NET Core
-        level: 98%
-#
-#      - name: Javascript & jQuery
-#        level: 98%
-#
-#      - name: Angular
-#        level: 98%
-#
+        level: 95%
+        
+      - name: AWS Cloud
+        level: 80%
+
+      - name: SQL & NoSQL
+        level: 80%
+
 #      - name: HTML5 & CSS
 #        level: 95%
 #
