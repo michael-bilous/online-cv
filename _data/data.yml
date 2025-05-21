@@ -95,7 +95,7 @@ experiences:
     title: Experiences
     info:
       - role: Senior Cloud and Backend Engineer
-        time: 2017 - Present
+        time: Oct 2017 - Present
         company: Align Technology, Petah Tikva, Israel
         details: |
             - Designed and developed scalable cloud-native backend services to power 3D dental imaging workflows, ensuring high performance and reliability across the Invisalign ecosystem.
@@ -109,7 +109,7 @@ experiences:
             - Collaborated across functions (product, QA, infrastructure, security) to drive ongoing system resilience, uptime, and reliability.
 
       - role: .NET Developer
-        time: 2016 - 2017
+        time: Aug 2016 - Oct 2017
         company: IDMR-Solutions, Ra’anana, Israel
         details: |
             - Developed a WPF desktop application.
@@ -117,7 +117,7 @@ experiences:
             - Initiated and led the migration of the desktop solution to a modern web-based architecture using ASP.NET Web API and Angular, laying the groundwork for improved scalability, maintainability, and accessibility.
             
       - role: Full Stack Developer
-        time: 2015 - 2016
+        time: Oct 2015 - Aug 2016
         company: Freelance, Jerusalem
         details: |
             - Led end-to-end software development, including requirements gathering, system design, implementation, testing, and deployment across multiple projects.
@@ -127,7 +127,7 @@ experiences:
             - Created dynamic single-page applications (SPAs) using ASP.NET and Angular, delivering responsive and interactive web interfaces.
         
       - role: .NET Developer
-        time: 2013 - 2015
+        time: Sep 2013 - Oct 2015
         company: 5Pro Software, Lviv
         details: |
             - Designed, developed, tested, and deployed custom web and mobile applications, including support for Windows CE devices used in industrial environments.
@@ -139,7 +139,7 @@ experiences:
             - Managed on-site software installations, providing technical support and ensuring proper system configuration at customer locations.
             
       - role: .NET FullStack Developer
-        time: 2012 - 2013
+        time: Apr 2012 - Sep 2013
         company: Lemberg Solutions Limited, Lviv
         details: |
             - Began commercial software development, gaining practical experience in real-world projects and team workflows.
