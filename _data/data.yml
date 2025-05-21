@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: info@mbilous.com
-    phone: +972(58)4053777
+    phone: +972(058)405-3-777
     timezone: Asia/Jerusalem # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://mbilous.com/ # Include the full website URL, including "http://" or "https://".
@@ -48,7 +48,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Diving
+        - item: Scuba Diving
           link:
 
         - item: Traveling
@@ -57,10 +57,16 @@ sidebar:
         - item: Photography
           link:
 
+        - item: DIY
+          link:          
+          
+        - item: Homelabbing
+          link:          
+
 career-profile:
     title: Career Profile
     summary: |
-      With over 11 years of experience in cloud and backend engineering, I currently hold the position of senior cloud and backend engineer at Align Technology, a global leader in digital orthodontics and the medical device industry. Within Align Technology, I collaborate with a talented team of engineers, designers, and product managers to deliver innovative solutions that enhance the customer experience and improve the efficiency and quality of our products and services.
+      With over 13 years of experience in cloud and backend engineering, I currently hold the position of senior cloud and backend engineer at Align Technology, a global leader in digital orthodontics and the medical device industry. Within Align Technology, I collaborate with a talented team of engineers, designers, and product managers to deliver innovative solutions that enhance the customer experience and improve the efficiency and quality of our products and services.
       My passion for learning drives me to constantly seek out new technologies and best practices in cloud and backend development. I thrive on collaboration and value diversity, creativity, and feedback. Working alongside other engineers and stakeholders, I aim to contribute to the mission and vision of Align Technology, ultimately making a positive impact on the lives of those who use our products and services.
 
 education:
@@ -92,47 +98,54 @@ experiences:
         time: 2017 - Present
         company: Align Technology, Petah Tikva, Israel
         details: |
-            - Designed and developed scalable cloud-based backend services for 3D dental imaging and workflows.
-            - Built APIs and microservices to support iTero scanner integration with the Invisalign ecosystem.
-            - Managed large-scale data pipelines for processing, storage, and retrieval of 3D imaging data.
-            - Ensured system security and compliance with HIPAA and global healthcare standards.
-            - Collaborated with cross-functional teams to optimize performance, scalability, and reliability.
-            - Leveraged cloud platforms ( AWS ) and modern tools ( Docker, Kubernetes ) for infrastructure and CI/CD.
+            - Designed and developed scalable cloud-native backend services to power 3D dental imaging workflows, ensuring high performance and reliability across the Invisalign ecosystem.
+            - Led the decomposition of a legacy monolith into microservices, improving system modularity, maintainability, and time-to-production.
+            - Improved performance and scalability of imaging data pipelines and APIs, significantly reducing response times and operational overhead.
+            - Reduced cloud infrastructure costs by optimizing services and usage patterns, and by migrating from on-premise systems to AWS.
+            - Accelerated delivery timelines through CI/CD improvements and tighter DevOps collaboration, cutting average release cycle time.
+            - Integrated with key enterprise systems, including LaunchDarkly for feature flag management, SAP for business operations, and Active Directory for internal user authentication and authorization.
+            - Developed secure, standards-compliant APIs for external partners and 3rd-party integrations, expanding platform interoperability.
+            - Maintained HIPAA and global healthcare compliance, ensuring patient data privacy and regulatory adherence.
+            - Collaborated across functions (product, QA, infrastructure, security) to drive ongoing system resilience, uptime, and reliability.
 
       - role: .NET Developer
         time: 2016 - 2017
         company: IDMR-Solutions, Ra’anana, Israel
         details: |
             - Developed a WPF desktop application.
-            - Implemented an automated Continuous Integration (CI) process using
-            - Initiated the migration of a desktop application to web-based technologies
+            - Implemented a CI pipeline using Jenkins: automating build, test, and deployment processes to improve development efficiency and code quality.
+            - Initiated and led the migration of the desktop solution to a modern web-based architecture using ASP.NET Web API and Angular, laying the groundwork for improved scalability, maintainability, and accessibility.
             
       - role: Full Stack Developer
         time: 2015 - 2016
         company: Freelance, Jerusalem
         details: |
+            - Led end-to-end software development, including requirements gathering, system design, implementation, testing, and deployment across multiple projects.
+            - Built a cross-platform Unity-based game designed for users with disabilities, focusing on accessibility and inclusive user experience.
+            - Integrated AI capabilities using IBM Watson, enabling natural language processing and intelligent user interaction.
+            - Developed RESTful APIs using both Java Spring with MongoDB and ASP.NET with SQL Server, supporting diverse backend needs.
+            - Created dynamic single-page applications (SPAs) using ASP.NET and Angular, delivering responsive and interactive web interfaces.
         
       - role: .NET Developer
         time: 2013 - 2015
         company: 5Pro Software, Lviv
         details: |
-            - Design, develop, test, support and deploy custom web applications and mobile applications.
-            - Create software documentation and update existing documentation.
-            - Coordinate with other developers on customer side.
-            - Translate customer’s business requirements into technical applications and solutions.
-            - Troubleshoot and resolve difficult problems
-            - Created CI build system using MSBuild and Jenkins
-            - Was responsible for installing software on customer's side. Made few business trips to customer to configure system and consulting.
+            - Designed, developed, tested, and deployed custom web and mobile applications, including support for Windows CE devices used in industrial environments.
+            - Created and maintained technical documentation, ensuring alignment with evolving system requirements and features.
+            - Collaborated with customer-side developers, ensuring smooth integration and consistent delivery across teams.
+            - Translated complex business requirements into scalable and maintainable technical solutions.
+            - Troubleshot and resolved critical issues, delivering reliable and timely fixes in production environments.
+            - Implemented a Continuous Integration (CI) build system using MSBuild and Jenkins, improving code quality and deployment speed.
+            - Managed on-site software installations, providing technical support and ensuring proper system configuration at customer locations.
             
       - role: .NET FullStack Developer
         time: 2012 - 2013
         company: Lemberg Solutions Limited, Lviv
         details: |
-            - Took the first steps in commercial development.
-            - Fixed numerous bugs in web applications.
-            - Implemented several new features
-            - Created a multitude of in-house modules for a variety of internal customers
-            - Develop, test, support and deploy mobile applications from the beginning           
+            - Began commercial software development, gaining practical experience in real-world projects and team workflows.
+            - Fixed numerous bugs in existing web applications, contributing to system stability and improved user experience.
+            - Implemented new features based on business requirements, enhancing application functionality.            
+            - Designed, built, tested, and deployed mobile applications for Windows RT, handling the full development lifecycle from scratch.        
 
 certifications:
 
