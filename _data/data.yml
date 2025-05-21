@@ -61,6 +61,9 @@ sidebar:
           link:          
           
         - item: Homelabbing
+          link:
+
+        - item: Cooking
           link:          
 
 career-profile:
@@ -107,6 +110,7 @@ experiences:
             - Developed secure, standards-compliant APIs for external partners and 3rd-party integrations, expanding platform interoperability.
             - Maintained HIPAA and global healthcare compliance, ensuring patient data privacy and regulatory adherence.
             - Collaborated across functions (product, QA, infrastructure, security) to drive ongoing system resilience, uptime, and reliability.
+            - #cloud #aws #microservices #docker #kubernetes #serverless #lambda #dynamodb #postgresql #sns #sqs #redis #elasticsearch
 
       - role: .NET Developer
         time: Aug 2016 - Oct 2017
@@ -115,6 +119,7 @@ experiences:
             - Developed a WPF desktop application.
             - Implemented a CI pipeline using Jenkins: automating build, test, and deployment processes to improve development efficiency and code quality.
             - Initiated and led the migration of the desktop solution to a modern web-based architecture using ASP.NET Web API and Angular, laying the groundwork for improved scalability, maintainability, and accessibility.
+            - #wpf #aspnet #angular #jenkins #ci
             
       - role: Full Stack Developer
         time: Oct 2015 - Aug 2016
@@ -167,15 +172,6 @@ skills:
 
       - name: SQL & NoSQL
         level: 80%
-
-#      - name: HTML5 & CSS
-#        level: 95%
-#
-#      - name: Ruby on Rails
-#        level: 85%
-#
-#      - name: Sketch & Photoshop
-#        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
