@@ -164,14 +164,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# & .NET Core
-        level: 95%
+      - name: C#, .NET, .NET Core, ASP.NET, REST APIs
+        level: 90%
         
-      - name: AWS Cloud
+      - name: AWS Cloud, Docker, Kubernetes
         level: 80%
 
-      - name: SQL & NoSQL
-        level: 80%
+      - name: SQL Server, PostgreSQL, Redis
+        level: 75%
+      
+      - name: Microservices Architecture, Event-Driven Systems
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
